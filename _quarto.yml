@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "REWRITE_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - team.qmd
+      - activities.qmd
+      - getinvolved.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

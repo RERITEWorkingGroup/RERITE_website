@@ -4,23 +4,23 @@ title: "Team"
 
 List of the current members of the working group (alphabetically ordered):
 
-- Andreas Leich, German Aerospace Center (DLR), Email address: andreas.leich\@dlr.de;
-- Bidisha Ghosh, Trinity College Dublin, Email address: bghosh@tcd.ie;
-- Caroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras@ectri.org;
-- Christine Buisson, Université Gustave Eiffel, Email address: Christine.Buisson@entpe.fr;
-- Danjue Chen, North Carolina State University, Email address: dchen33@ncsu.edu;
-- Elizabeth Sall, UrbanLabs LLC, Email: easall@gmail.com;
-- Irene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria@tudelft.nl;
-- Jiwon Kim, University of Queensland, Email address: jiwon.kim@uq.edu.au;
-- Kendra Levine, UC Berkeley, Email address : kklevine@berkeley.edu;
-- Liming Wang, Portland State University, Email address:limwang@pdx.edu;
-- Marcello Montanino, University of Naples Federico II, Email address: marcello.montanino@unina.it;
-- Nicolas Saunier, Polytechnique Montréal, Email address: nicolas.saunier@polymtl.ca;
-- Peggi Knight, Iowa Department of Transportation, Email: peggi.knight@iowadot.us;
-- Peter Wagner, German Aerospace Center (DLR), Email address: peter.wagner@dlr.de;
-- Shimul (Md. Mazharul) Haque, Queensland University of Technology, Email address: m1.haque@qut.edu.au;
-- Silvia Francesca Varotto, École Nationale des Travaux Publics de l'État, Email address: SilviaFrancesca.Varotto@entpe.fr;
-- Vincenzo Punzo, University of Naples Federico II, Email address: vinpunzo@unina.it;
-- Xuesong Zhou, Arizona State University, Email address: xuesong.zhou@asu.edu;
-- Yinhai Wang, University of Washington, Email address: yinhai@uw.edu;
-- Zuduo Zheng, University of Queensland, Email address: zuduo.zheng@uq.edu;
+-   Andreas Leich, German Aerospace Center (DLR), Email address: andreas.leich\@dlr.de;
+-   Bidisha Ghosh, Trinity College Dublin, Email address: bghosh\@tcd.ie;
+-   Caroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras\@ectri.org;
+-   Christine Buisson, Université Gustave Eiffel, Email address: Christine.Buisson\@entpe.fr;
+-   Danjue Chen, North Carolina State University, Email address: dchen33\@ncsu.edu;
+-   Elizabeth Sall, UrbanLabs LLC, Email: easall\@gmail.com;
+-   Irene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria\@tudelft.nl;
+-   Jiwon Kim, University of Queensland, Email address: jiwon.kim\@uq.edu.au;
+-   Kendra Levine, UC Berkeley, Email address : kklevine\@berkeley.edu;
+-   Liming Wang, Portland State University, Email address:limwang\@pdx.edu;
+-   Marcello Montanino, University of Naples Federico II, Email address: marcello.montanino\@unina.it;
+-   Nicolas Saunier, Polytechnique Montréal, Email address: nicolas.saunier\@polymtl.ca;
+-   Peggi Knight, Iowa Department of Transportation, Email: peggi.knight\@iowadot.us;
+-   Peter Wagner, German Aerospace Center (DLR), Email address: peter.wagner\@dlr.de;
+-   Shimul (Md. Mazharul) Haque, Queensland University of Technology, Email address: m1.haque\@qut.edu.au;
+-   Silvia Francesca Varotto, École Nationale des Travaux Publics de l'État, Email address: SilviaFrancesca.Varotto\@entpe.fr;
+-   Vincenzo Punzo, University of Naples Federico II, Email address: vinpunzo\@unina.it;
+-   Xuesong Zhou, Arizona State University, Email address: xuesong.zhou\@asu.edu;
+-   Yinhai Wang, University of Washington, Email address: yinhai\@uw.edu;
+-   Zuduo Zheng, University of Queensland, Email address: zuduo.zheng\@uq.edu;

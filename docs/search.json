@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "REWRITE - REproducible Ways for Research In Transport Engineering",
     "section": "",
-    "text": "This is the website of the RE-WRITE Working Group - REproducible Ways for Research In Transport Engineering.\nWe are a group of volunteers who are passionate of practicing and promoting reproducible research in Transport Engineering."
+    "text": "This is the website of the RE-WRITE Working Group - REproducible Ways for Research In Transport Engineering.\nWe are a group of volunteers who are passionate about practicing and promoting reproducible research in Transport Engineering."
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "List of the current members of the working group (alphabetically ordered):\n\nAndreas Leich, German Aerospace Center (DLR), Email address: andreas.leich@dlr.de;\nBidisha Ghosh, Trinity College Dublin, Email address: bghosh@tcd.ie;\nCaroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras@ectri.org;\nChristine Buisson, Université Gustave Eiffel, Email address: Christine.Buisson@entpe.fr;\nDanjue Chen, North Carolina State University, Email address: dchen33@ncsu.edu;\nElizabeth Sall, UrbanLabs LLC, Email: easall@gmail.com;\nIrene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria@tudelft.nl;\nJiwon Kim, University of Queensland, Email address: jiwon.kim@uq.edu.au;\nKendra Levine, UC Berkeley, Email address : kklevine@berkeley.edu;\nLiming Wang, Portland State University, limwang@pdx.edu;\nMarcello Montanino, University of Naples Federico II, Email address: marcello.montanino@unina.it;\nNicolas Saunier, Polytechnique Montréal, Email address: nicolas.saunier@polymtl.ca;\nPeggi Knight, Iowa Department of Transportation, Email: peggi.knight@iowadot.us;\nPeter Wagner, German Aerospace Center (DLR), Email address: peter.wagner@dlr.de;\nShimul (Md. Mazharul) Haque, Queensland University of Technology, Email address: m1.haque@qut.edu.au;\nSilvia Francesca Varotto, École Nationale des Travaux Publics de l’État, Email address: SilviaFrancesca.Varotto@entpe.fr;\nVincenzo Punzo, University of Naples Federico II, Email address: vinpunzo@unina.it;\nXuesong Zhou, Arizona State University, Email address: xuesong.zhou@asu.edu;\nYinhai Wang, University of Washington, Email address: yinhai@uw.edu;\nZuduo Zheng, University of Queensland, Email address: zuduo.zheng@uq.edu;"
+    "text": "List of the current members of the working group (alphabetically ordered):\n\nAndreas Leich, German Aerospace Center (DLR), Email address: andreas.leich@dlr.de;\nBidisha Ghosh, Trinity College Dublin, Email address: bghosh@tcd.ie;\nCaroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras@ectri.org;\nChristine Buisson, Université Gustave Eiffel, Email address: Christine.Buisson@entpe.fr;\nDanjue Chen, North Carolina State University, Email address: dchen33@ncsu.edu;\nElizabeth Sall, UrbanLabs LLC, Email: easall@gmail.com;\nIrene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria@tudelft.nl;\nJiwon Kim, University of Queensland, Email address: jiwon.kim@uq.edu.au;\nKendra Levine, UC Berkeley, Email address : kklevine@berkeley.edu;\nLiming Wang, Portland State University, Email address:limwang@pdx.edu;\nMarcello Montanino, University of Naples Federico II, Email address: marcello.montanino@unina.it;\nNicolas Saunier, Polytechnique Montréal, Email address: nicolas.saunier@polymtl.ca;\nPeggi Knight, Iowa Department of Transportation, Email: peggi.knight@iowadot.us;\nPeter Wagner, German Aerospace Center (DLR), Email address: peter.wagner@dlr.de;\nShimul (Md. Mazharul) Haque, Queensland University of Technology, Email address: m1.haque@qut.edu.au;\nSilvia Francesca Varotto, École Nationale des Travaux Publics de l’État, Email address: SilviaFrancesca.Varotto@entpe.fr;\nVincenzo Punzo, University of Naples Federico II, Email address: vinpunzo@unina.it;\nXuesong Zhou, Arizona State University, Email address: xuesong.zhou@asu.edu;\nYinhai Wang, University of Washington, Email address: yinhai@uw.edu;\nZuduo Zheng, University of Queensland, Email address: zuduo.zheng@uq.edu;"
   },
   {
     "objectID": "activities.html",
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "Current activities\nWe are currently organizing a tutorial at an international conference, with the following objectives:\n(1) An introduction to the fundamental concepts and importance of RR to the domain of ITS\n(2) Provide hands-on training in the use of tools and software that facilitate reproducibility\n(3) Guide researchers on how to properly document and organize data and project outcomes to foster open science\n(4) Encourage collaboration among tutorial participants to foster a community that values and practices reproducible research\nThis tutorial is organized by Cathy Wu (Assistant Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). More information will be announced soon. Please stay tuned.\nPast activities\nTo be added."
+    "text": "We are currently organizing a tutorial at an international conference, with the following objectives:\n\nAn introduction to the fundamental concepts and importance of RR to the domain of ITS\nProvide hands-on training in the use of tools and software that facilitate reproducibility\nGuide researchers on how to properly document and organize data and project outcomes to foster open science\nEncourage collaboration among tutorial participants to foster a community that values and practices reproducible research\n\nThis tutorial is co-organized by Cathy Wu (Assistant Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). More information will be provided soon. Please stay tuned."
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,19 @@
     "title": "Get involved",
     "section": "",
     "text": "We always welcome new members to join the working group and contribute to the mission of promoting reproducible research in the transportation research community.\nTo express your interest, please contact Zuduo Zheng at zuduo.zheng@uq.edu.au, or Christine Buisson at Christine.BUISSON@entpe.fr."
+  },
+  {
+    "objectID": "activities.html#past-activities",
+    "href": "activities.html#past-activities",
+    "title": "Activities",
+    "section": "Past activities",
+    "text": "Past activities\n\nWe organized a workshop “Reproducible Research (RR) – Why, What, and How” sponsored by eight committees (ACP50, A0020C, AED10, AED50, ED60, AEP40, AEP50, AJE45), at TRB2024.More detail of this workshop can be found here.\n\n\n\n(credit: Xuesong Zhou)\n\n\nWe organized a Call for Papers “Towards Reproducible Transportation Research” at TRB 2023, sponsored by ACP50: Traffic Flow Theory and Characteristics (primary sponsoring committee) and AEP40: Transportation Network Modeling Committee. More details of this event can be found here. As a result, a Lectern Session at TRB2023 was dedicated to Reproducible Transportation Research."
+  },
+  {
+    "objectID": "activities.html#current-activities",
+    "href": "activities.html#current-activities",
+    "title": "Activities",
+    "section": "",
+    "text": "We are currently organizing a tutorial at an international conference, with the following objectives:\n\nAn introduction to the fundamental concepts and importance of RR to the domain of ITS\nProvide hands-on training in the use of tools and software that facilitate reproducibility\nGuide researchers on how to properly document and organize data and project outcomes to foster open science\nEncourage collaboration among tutorial participants to foster a community that values and practices reproducible research\n\nThis tutorial is co-organized by Cathy Wu (Assistant Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). More information will be provided soon. Please stay tuned."
   }
 ]

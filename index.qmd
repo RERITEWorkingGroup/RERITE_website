@@ -6,4 +6,4 @@ title: "REWRITE - REproducible Ways for Research In Transport Engineering"
 
 This is the website of the **RE-WRITE** Working Group - **REproducible Ways for Research In Transport Engineering**.
 
-We are a group of volunteers who are passionate of practicing and promoting reproducible research in Transport Engineering.
+We are a group of volunteers who are passionate about practicing and promoting reproducible research in Transport Engineering.

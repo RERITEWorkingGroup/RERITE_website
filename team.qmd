@@ -7,6 +7,7 @@ List of the current members of the working group (alphabetically ordered):
 -   Andreas Leich, German Aerospace Center (DLR), Email address: andreas.leich at dlr.de;
 -   Bidisha Ghosh, Trinity College Dublin, Email address: bghosh at tcd.ie;
 -   Caroline Alméras, The European Conference of Transport Research Institutes (ECTRI), Email address: caroline.almeras at ectri.org;
+-   Cathy Wu, Massachusetts Institute of Technology (MIT), Email address: cathywu at mit.edu;
 -   Christine Buisson, Université Gustave Eiffel, Email address: Chrchristine.buisson at univ-eiffel.fr;
 -   Danjue Chen, North Carolina State University, Email address: dchen33 at ncsu.edu;
 -   Elizabeth Sall, UrbanLabs LLC, Email: easall at gmail.com;

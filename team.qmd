@@ -11,8 +11,10 @@ List of the current members of the working group (alphabetically ordered):
 -   Christine Buisson, Université Gustave Eiffel, Email address: Chrchristine.buisson at univ-eiffel.fr;
 -   Danjue Chen, North Carolina State University, Email address: dchen33 at ncsu.edu;
 -   Elizabeth Sall, UrbanLabs LLC, Email: easall at gmail.com;
+-   Evangelos Mitsakis, Centre for Research and Technology Hellas - Hellenic Institute of Transport, Email address: emit at certh.gr;
 -   Irene Martínez Josemaría, TU Delft, Email address: I.MartinezJosemaria at tudelft.nl;
 -   Jiwon Kim, University of Queensland, Email address: jiwon.kim at uq.edu.au;
+-   Junyi Ji,Vanderbilt University, Email address: junyi.ji at vanderbilt.edu;
 -   Kendra Levine, UC Berkeley, Email address : kklevine at berkeley.edu;
 -   Liming Wang, Portland State University, Email address:limwang at pdx.edu;
 -   Marcello Montanino, University of Naples Federico II, Email address: marcello.montanino at unina.it;

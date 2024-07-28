@@ -16,7 +16,7 @@ title: "Activities"
 
     This tutorial is co-organized by Cathy Wu (Assistant Professor at MIT), Bidisha Ghosh (Associate Professor at Trinity College Dublin), Irene Martínez (Assistant Professor at the TU Delft), and Zuduo Zheng (Professor at the University of Queensland). **More information will be provided soon**. Please stay tuned.
 
--   We are planning to guest-edit a topical collection on “Reproducible Research in Transportation” for [European Transport Research Review (ETRR)](https://etrr.springeropen.com/), which is a peer-reviewed open access journal publishing original high-quality scholarly research and developments in areas related to transportation science, technologies, policy and practice. **A call for papers will be released soon**. Please stay tuned.
+-   We are planning to guest-edit a topical collection on “Reproducible Research in Transportation” for [European Transport Research Review (ETRR)](https://etrr.springeropen.com/), which is a peer-reviewed open access journal publishing original high-quality scholarly research and developments in areas related to transportation science, technologies, policy and practice. Currently, we are collecting a list of potential contributions that we intend to submit together with the full proposal for the topical collection to the editors of ETRR. **if you would like to contribute to this initiative, please click [this link](https://www.dropbox.com/scl/fi/c6r50glfjrhu89588t3o6/ETRR-Topical-Collection_blurb.pdf?rlkey=sk1he24tcug386w3njlplfy5j&dl=0) for more detail**.
 
 ## Past activities
 

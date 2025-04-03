@@ -5,3 +5,18 @@ title: "RERITE - REproducible Research In Transportation Engineering"
 ![](images/logo_jpg.jpg)This is the website of the **RE-RITE** Working Group - **REproducible Research In Transportation Engineering**.
 
 We are a group of volunteers who are passionate about practicing and promoting reproducible research in Transport Engineering.
+
+The Steering Committee of the group:
+
+* **Chair**: Dr. Cathy Wu, Massachusetts Institute of Technology (MIT)
+
+* **Vice-Chair and Major Event Coordinator**:
+  + Dr. Xuesong (Simon) Zhou, Arizona State University
+  + Dr. Bidisha Ghosh, Trinity College Dublin
+  
+* **Communication Officer (joint)**: Dr. Silvia Francesca Varotto and Dr. Bahman Madadi, École Nationale des Travaux Publics de l'État, LICIT-ECO7
+
+* **Junior Researcher Engagement Officer**: Dr. Yanbing Wang, Arizona State University
+
+* **Secretary**: Dr. Michail Makridis, ETH Zürich
+
